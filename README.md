@@ -5,7 +5,7 @@
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@xAbhish3k/Stringsession-Generator) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@D15H4NT0P/Stringsession) ``Pyrogram``
 
 ## 🎭 Preview
 <p align="center">
@@ -80,7 +80,7 @@ python3 main.py # run the bot.
 > veez All Devs 
 
 ## Support & Updates 📢
-<a href="https://t.me/VampireBot_Support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Vampire_Network"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/VampireBot_Support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/VampireX_Network"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
